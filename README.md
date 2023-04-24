@@ -16,8 +16,8 @@ how to test ?
       request body =
     {
     "studentId": 3,
-    "name": "Abhishek Singh",
-    "email": "abhi@infy.com"
+    "name": "Pratyush Pandey",
+    "email": "ppandey@gmail.com"
 }
 
 -Delete student - localhost:8765/studentApp/deleteStudent/3
@@ -26,6 +26,6 @@ how to test ?
 {
     "studentId": ,
     "name": "King",
-    "email": "abhi@infy.com"
+    "email": "ppandey@gmail.com"
 }
 # CRUD_REST
